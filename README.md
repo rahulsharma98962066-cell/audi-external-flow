@@ -4,7 +4,7 @@
 
 Explore the vehicle geometry, computational mesh, saved simulation and flow visualizations.
 
-[View result images](result/) · [Download simulation files](https://github.com/rahulsharma98962066-cell/audi-external-flow/releases/tag/v1.0-cfd-files)
+[View result images](result/) · [Simulation folder — mesh, case & data](simulation/)
 
 ![Vehicle surface pressure](result/04_car_surface_pressure.png)
 
@@ -16,6 +16,7 @@ Explore the vehicle geometry, computational mesh, saved simulation and flow visu
 | Mesh | [car.msh](https://github.com/rahulsharma98962066-cell/audi-external-flow/releases/download/v1.0-cfd-files/car.msh) | Computational grid |
 | Case | [audi_simplec_750iter.cas.h5](https://github.com/rahulsharma98962066-cell/audi-external-flow/releases/download/v1.0-cfd-files/audi_simplec_750iter.cas.h5) | Fluent mesh and setup |
 | Data | [audi_simplec_750iter.dat.h5](https://github.com/rahulsharma98962066-cell/audi-external-flow/releases/download/v1.0-cfd-files/audi_simplec_750iter.dat.h5) | Matching saved solution |
+| Simulation folder | [simulation/](simulation/) | Mesh, case and data download guide |
 | Results | [result/](result/) | Images, plots and contours only |
 
 The mesh and case/data files are provided as GitHub Release assets because they exceed the 25 MB browser-upload limit.
